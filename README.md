@@ -1,7 +1,7 @@
 # Redistribution of Duke images
 
 Duke image was distributed at https://duke.kenai.com/.  
-However, unfortunately this page has been closed now.
+However, the kenai.com has been closed
 
 Therefore, redistribute it on this page.
 
