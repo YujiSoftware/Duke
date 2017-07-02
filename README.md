@@ -7,4 +7,4 @@ Therefore, redistribute it on this page.
 
 ## License
 
-[The 2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause"The 2-Clause BSD License | Open Source Initiative")
+[The 2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause)
