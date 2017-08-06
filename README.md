@@ -3,7 +3,8 @@
 Duke image was distributed at https://duke.kenai.com/.  
 However, the kenai.com has been closed
 
-Therefore, redistribute it on this page.
+Therefore, redistribute it on this page.  
+https://yujisoftware.github.io/Duke/
 
 ## License
 
